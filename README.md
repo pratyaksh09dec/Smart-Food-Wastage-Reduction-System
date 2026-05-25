@@ -1,5 +1,5 @@
 # Smart-Food-Wastage-Reduction-System
-This project focuses on Food Demand Analysis (FDA) using Python and data analytics techniques. The system analyzes food demand data, detects missing values and outliers, performs preprocessing, and generates insights related to food preparation, consumption, surplus, and waste percentage.
+This project focuses on Food Demand Analysis using Python and data analytics techniques. The system analyzes food demand data, detects missing values and outliers, performs preprocessing, and generates insights related to food preparation, consumption, surplus, and waste percentage.
 
 The project is implemented using:
     Python
